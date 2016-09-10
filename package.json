@@ -105,5 +105,8 @@
     "plugins": [
       "add-module-exports"
     ]
+  },
+  "engines": {
+    "node": "6.3.1"
   }
 }
